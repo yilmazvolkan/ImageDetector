@@ -20,6 +20,15 @@ In CNN, we take filter which is determined before and apply into image. Therefor
 
 MaxPooling hepls CNN to be more flexible about detecting features since most of the time features are rotated. It also reduces the size and it is good for processing. Flattening is the process that takes pooled feature map and converts into one column array for input layer of ANN. Moreover, when we gain some results with probabilities, most of the time it does not add up to 1. Softmax solves this problem by adjusting them into 0-1 scala.
 
+In the project, it is added another layer to increase the accuracy. Therefore, accuracy increases from 75 to 86. It is also added a single prediction in part 3 to detect when we give an image whether it is an dog or car. Results are below;
+
+
+
+<p align="center">
+<a href = "https://github.com/yilmazvolkan/ImageDetector/blob/master/drawable/results.jpeg"><img 
+<img src="https://github.com/yilmazvolkan/ImageDetector/blob/master/drawable/results.jpeg" width="640" height="210"></a>
+</p>
+
 
 ## :blue_book: Readings
 

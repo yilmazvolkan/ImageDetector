@@ -26,7 +26,7 @@ In the project, it is added another layer to increase the accuracy. Therefore, a
 
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/ImageDetector/blob/master/drawable/results.jpeg"><img 
-<img src="https://github.com/yilmazvolkan/ImageDetector/blob/master/drawable/results.jpeg" width="640" height="210"></a>
+<img src="https://github.com/yilmazvolkan/ImageDetector/blob/master/drawable/results.jpeg" width="500" height="250"></a>
 </p>
 
 

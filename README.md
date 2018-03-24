@@ -8,7 +8,7 @@
 
 You need to install Keras library on Python. You can reach this library clicking on this [link](https://github.com/keras-team/keras).
 
-Moreover, since the dataset is huge, you need to download it from [here](https://github.com/keras-team/keras).
+Moreover, since the dataset is huge, you need to download it from [here](https://drive.google.com/file/d/19gvrNcAekHZCinxH6tjVatQSDQBwUwSn/view?usp=sharing).
 
 ## :tophat: Summary
 
